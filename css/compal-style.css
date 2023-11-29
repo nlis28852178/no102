@@ -504,6 +504,20 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 	font-size: 14px;
 }
 
+.A2text_01_123 {
+	line-height:20px;
+	word-wrap: break-word;
+	word-break: normal;
+	text-justify:inter-ideograph;
+	padding-top: 20px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+	color: #000;
+	float: none;
+	font-size: 13px;
+}
+
 .A2text_02 {
 	line-height:20px;
 	word-wrap: break-word;
