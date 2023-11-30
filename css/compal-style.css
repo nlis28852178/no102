@@ -925,6 +925,7 @@ p span {
 	width: 220px;
 }
 
+
 #info_h {
 	background-image: url(../images/info_h.gif);
 	background-repeat: repeat-y;
@@ -971,6 +972,12 @@ p span {
 	height: 3px;
 	width: 670px;
 }
+#info5_t1 {
+	background-image: url(../images/info5_t1.gif);
+	background-repeat: no-repeat;
+	height: 3px;
+	width: 900px;
+}
 
 #info5_h {
 	background-image: url(../images/info5_h.gif);
@@ -979,11 +986,25 @@ p span {
 	width: 670px;
 }
 
+#info5_h1 {
+	background-image: url(../images/info5_h1.gif);
+	background-repeat: repeat-y;
+	height: 3px;
+	width: 900px;
+}
+
 #info5_b {
 	background-image: url(../images/info5_b.gif);
 	background-repeat: no-repeat;
 	height: 3px;
 	width: 670px;
+}
+
+#info5_b1 {
+	background-image: url(../images/info5_b1.gif);
+	background-repeat: no-repeat;
+	height: 3px;
+	width: 900px;
 }
 #info5_t-05 {
 	background-image: url(../images/info_t-05.gif);
